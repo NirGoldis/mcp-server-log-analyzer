@@ -1,0 +1,1 @@
+This is a Demo code for creating an mcp server which can analyze log file and return statistics (Log level & service-level aggregation), security related finding, a summary and recommendations/ root causes.
